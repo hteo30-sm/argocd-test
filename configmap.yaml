@@ -2,7 +2,7 @@
 apiVersion: v1
 kind: ConfigMap
 metadata:
-  name: test-webhook-deploy
+  name: test-webhook
 data:
   hello: world
-  test: true
+  test: "true"
