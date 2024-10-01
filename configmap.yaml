@@ -5,4 +5,4 @@ metadata:
   name: test-webhook
 data:
   hello: world
-  test: "normal. no webhook"
+  test: "with webhook"
